@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lionboomer
 - 👀 I’m interested in Coding and Security related Topics
-- 🌱 I’m currently learning how to Code an Extension For Typo3
+- 🌱 I’m currently writing my Bachelorthesis 
 - 💞️ I’m looking to collaborate on I dont know
 - 📫 How to reach me lion@witte-maler.de
 
