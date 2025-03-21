@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lionboomer
-- 👀 I’m interested in Coding and Security related Topics
-- 🌱 I’m currently writing my Masterthesis 
-- 💞️ I’m looking to collaborate on I dont know
+- 👀 I’m interested in Coding 📊 and Security Topics 🔒
+- 🌱 I’m currently working as a Security Engineer 💻 
+- 💞️ I’m looking to collaborate on Security and Machine Learning Topics 🤖
 - 📫 How to reach me lion@witte-maler.de
 
 <!---
